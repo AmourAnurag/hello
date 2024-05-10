@@ -6,6 +6,7 @@
 .name h2{
    font-size: 45px;
    font-weight: 900;
+   padding: 45px;
    color: red;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
