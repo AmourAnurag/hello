@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+
+}
+.name h2{
+   font-size: 45px;
+   font-weight: 900;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
